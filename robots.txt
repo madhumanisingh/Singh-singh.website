@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://singhassociates.github.io/sitemap.xml
